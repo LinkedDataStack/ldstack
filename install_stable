@@ -1,0 +1,2 @@
+ld-keyring.gpg     etc/apt/trusted.gpg.d
+ldstable.list     etc/apt/sources.list.d

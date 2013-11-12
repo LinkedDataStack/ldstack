@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/535/trunk/lod2repository/debian
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/lod2repository/debian/rules
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/549/trunk/lod2repository/debian/control
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/lod2repository/debian/compat
+END
+prerm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/365/trunk/lod2repository/debian/prerm
+END
+install
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/lod2repository/debian/install
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/549/trunk/lod2repository/debian/changelog
+END
+docs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/trunk/lod2repository/debian/docs
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/lod2repository/debian/copyright
+END

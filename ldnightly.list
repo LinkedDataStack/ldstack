@@ -1,0 +1,3 @@
+# Added the nightly repository of the linkeddata stack
+deb http://stack.linkeddata.org/deb/ ldstack-nightly main
+deb http://stack.linkeddata.org/deb/ ldstack-virt6 main

@@ -1,0 +1,3 @@
+# Added the testing repository of the linkeddata stack
+deb http://stack.linkeddata.org/deb/ ldstack-testing main
+deb http://stack.linkeddata.org/deb/ ldstack-virt6 main

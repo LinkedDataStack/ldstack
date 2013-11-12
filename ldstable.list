@@ -1,0 +1,3 @@
+# Added the stable repository of the linked data stack
+deb http://stack.linkeddata.org/deb/ ldstack main
+deb http://stack.linkeddata.org/deb/ ldstack-virt6 main

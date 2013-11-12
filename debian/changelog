@@ -1,0 +1,5 @@
+ldrepository (1.0) ldstack-nightly; urgency=low
+
+  * initial release, approach copied from LOD2 repository package.
+
+ -- Karel Kremer <Karel.Kremer@tenforce.com>  Tue, 12 Nov 2013 13:30:38 +0200
